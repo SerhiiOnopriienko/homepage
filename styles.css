@@ -92,6 +92,10 @@ body {
   justify-content: space-between;
 }
 
+.contact-info__empty-block {
+  width: 170px;
+}
+
 .contact-info__block--center {
   justify-content: center;
 }
