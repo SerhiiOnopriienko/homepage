@@ -92,6 +92,10 @@ body {
   justify-content: space-between;
 }
 
+.contact-info__empty-block {
+  width: 170px;
+}
+
 .contact-info__block--center {
   justify-content: center;
 }
@@ -143,6 +147,12 @@ body {
   width: 30px;
   display: flex;
   justify-content: center;
+}
+
+.intro__icon-wrapper-end {
+  align-items: end;
+  margin-right: 0;
+  margin-left: 30px;
 }
 
 .intro__icon {
